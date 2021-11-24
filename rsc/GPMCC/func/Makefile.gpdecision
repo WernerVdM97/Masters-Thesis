@@ -1,0 +1,30 @@
+SHELL	= /bin/sh
+CC	= g++
+DIRECT  = templates/*.o baseClasses/*.o k-means/*.o gapolycurve/*.o gpdecision/*.o
+CFLAGS  = -Wall -O3
+MACROS  = -DCLUSTER_HEUR=2 -DSHOW_CLUSTERER=0 -DSHOW_GAPOLYCURVE=0 -DSHOW_GPDECISION=1 -DOPT_MODE=3
+
+export CC
+export CFLAGS
+export MACROS
+
+all:
+	cd templates && make -e;
+	cd baseClasses && make -e;
+	cd k-means && make -e;
+	cd gapolycurve && make -e;
+	cd gpdecision && make -e;
+	make -f Makefile.gpdecision -e gpdecision.exe
+
+gpdecision.exe: baseClasses/Data.o gpdecision/GPDecision.o gpdecision.C Makefile.gpdecision
+	$(CC) $(CFLAGS) $(MACROS) $(DIRECT) gpdecision.C -o gpdecision.exe
+
+install: all
+
+clean:
+	cd templates && make clean;
+	cd baseClasses && make clean;
+	cd k-means && make clean;
+	cd gapolycurve && make clean;
+	cd gpdecision && make clean;
+	rm -f core gpdecision.C~ gpdecision.exe

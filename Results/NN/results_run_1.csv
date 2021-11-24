@@ -1,0 +1,11 @@
+Run,Model,Dataset,Train_RMSE,Train_MAE,Train_R2,Test_RMSE,Test_MAE,Test_R2
+1,NN,abalone,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,cali_housing,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,bos_housing,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,auto,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,servo,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,machine,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,elevators,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,CASP,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,fried,0.0,0.0,0.0,0.0,0.0,0.0
+1,NN,MV,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,11 @@
+Dataset,hidden_size,batch_size,lr
+abalone,11.0,16.0,0.003
+cali_housing,12.0,128.0,0.003
+bos_housing,8.0,2.0,0.001
+auto,12.0,32.0,0.003
+servo,8.0,32.0,0.003
+machine,3.0,2.0,0.001
+elevators,36.0,128.0,0.003
+CASP,18.0,128.0,0.003
+fried,20.0,256.0,0.003
+MV,18.0,128.0,0.003

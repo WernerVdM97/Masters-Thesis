@@ -1,0 +1,28 @@
+SHELL	= /bin/sh
+CC	= g++
+DIRECT  = templates/*.o baseClasses/*.o k-means/*.o neuralnetwork/*.o
+CFLAGS  = -Wall -O3
+MACROS  = -DCLUSTER_HEUR=2 -DSHOW_CLUSTERER=1 -DSHOW_NEURALNETWORK=1 -DOPT_MODE=4
+
+export CC
+export CFLAGS
+export MACROS
+
+all:
+	cd templates && make -e;
+	cd baseClasses && make -e;
+	cd k-means && make -e;
+	cd neuralnetwork && make -e;
+	make -f Makefile.neuralnetwork -e neuralnetwork.exe;
+
+neuralnetwork.exe: baseClasses/Data.o k-means/Clusterer.o neuralnetwork/NeuralNetwork.o neuralnetwork.C Makefile.neuralnetwork
+	$(CC) $(CFLAGS) $(MACROS) $(DIRECT) neuralnetwork.C -o neuralnetwork.exe
+
+install: all
+
+clean:
+	cd templates && make clean;
+	cd baseClasses && make clean;
+	cd k-means && make clean;
+	cd neuralnetwork && make clean;
+	rm -f core neuralnetwork.C~ neuralnetwork.exe

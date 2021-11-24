@@ -1,0 +1,17 @@
+#!/bin/bash
+#PBS -l select=30:ncpus=1
+#PBS -P CSCI0886
+#PBS -q normal
+#PBS -l walltime=24:00:00
+#PBS -o /home/wvandermerwe1/lustre/Testing/out/test.out
+#PBS -e /home/wvandermerwe1/lustre/Testing/out/test.err
+#PBS -m abe
+#PBS -M 20076223@sun.ac.za
+#PBS -N MTF
+
+module load chpc/openmpi/2.0.0/gcc-6.2.0_java-1.8.0_73
+module load chpc/python/3.5.2_gcc-6.2.0
+
+cd /home/wvandermerwe1/lustre/Testing
+
+mpiexec -np 30 python final_test.py
