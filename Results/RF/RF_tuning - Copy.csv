@@ -1,0 +1,11 @@
+Dataset,max_features,min_samples_leaf,max_depth,n_estimators
+abalone,5,10,28,122
+cali_housing,3,1,150,500
+bos_housing,6,1,20,1000
+auto,2,1,250,1000
+servo,3,1,250,1000
+machine,2,1,250,1000
+elevators,16,1,145,444
+CASP,5,1,150,250
+fried,10,2,146,250
+MV,8,1,76,239

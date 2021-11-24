@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "Chromo.C": "cpp",
+        "gpdecision.C": "cpp",
+        "Component.C": "cpp",
+        "GAPolyCurve.C": "cpp",
+        "DynamicArray.C": "cpp",
+        "Data.C": "cpp",
+        "ChromoPool.C": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

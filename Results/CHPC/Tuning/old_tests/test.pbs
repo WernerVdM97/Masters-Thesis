@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -l select=30:ncpus=1
+#PBS -P CSCI0886
+#PBS -q normal
+#PBS -l walltime=00:00:01
+#PBS -o /home/wvandermerwe1/lustre/MTF/out/test2.out
+#PBS -e /home/wvandermerwe1/lustre/MTF/out/test2.err
+#PBS -m abe
+#PBS -M 20076223@sun.ac.za
+#PBS -N MTF
+
+module load chpc/python/3.5.2_gcc-6.2.0
+module load chpc/openmpi/2.0.0/gcc-6.1.0_java-1.8.0_73
+
+cd /home/wvandermerwe1/lustre/MTF
+
+mpiexec -np 30 python helloworld.py
+

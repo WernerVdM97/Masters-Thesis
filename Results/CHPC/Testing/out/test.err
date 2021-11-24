@@ -1,0 +1,136 @@
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: divide by zero encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/mnt/lustre/users/wvandermerwe1/Testing/Chromo.py:376: RuntimeWarning: invalid value encountered in double_scalars
+  mse = mse / Mean_Square_Dev
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/apps/chpc/bio/python/3.5.2_gcc-6.2.0/lib/python3.5/site-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype int64 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, _DataConversionWarning)

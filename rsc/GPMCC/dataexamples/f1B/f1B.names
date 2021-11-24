@@ -1,0 +1,13 @@
+CrossValidation:1
+Clusters:30
+ClusterEpochs:10
+NeuralInputUnits: 1
+NeuralHiddenUnits: 3
+NeuralOutputUnits: 1
+NeuralActivation: 1.0
+NeuralLearningRate: 0.05
+NeuralMomentum: 0.9
+NeuralEpochs: 3000
+NeuralPercentageSampleSize: 0.01
+x:<continuous>
+<C>y:<continuous>

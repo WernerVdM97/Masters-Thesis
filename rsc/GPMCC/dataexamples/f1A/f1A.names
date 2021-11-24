@@ -1,0 +1,14 @@
+CrossValidation:1
+Clusters:30
+ClusterEpochs:10
+FunctionMutationRate:0.1
+FunctionCrossoverRate:0.2
+FunctionGenerations:100
+FunctionIndividuals:30
+PolynomialOrder:3
+FunctionPercentageSampleSize:0.01
+FunctionMaximumComponents:20
+FunctionElite:0.1
+FunctionCutOff:0.01
+$x:<continuous>
+<C>$y:<continuous>
