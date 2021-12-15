@@ -15,5 +15,5 @@ non-linear models that predicts the output enable MTF to produce approximations 
 non-linear data The addition of ensembling methods passively combat overfitting brought forth
 from the increased model complexity, compared to a previous implementation of GASOPE
 within a tree structure which is shown to exhibit overfitting in specific cases. MTF produced
-similar performance to a artificial feed-forward neural network and outperformed the M5 model
+similar performance to an artificial feed-forward neural network and outperformed the M5 model
 tree, an ensemble of M5 model trees and support vector regression.
