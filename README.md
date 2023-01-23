@@ -1,6 +1,4 @@
-# MEng Industrial Engineering Thesis
-
-## A genetic algorithm based model tree forest 
+# A Genetic Algorithm Based Model Tree Forest 
 
 This thesis presents an ensemble approach that reduces the high variance error exhibited by
 model trees that comprise multivariate non-linear models and increases their overall robustness.
