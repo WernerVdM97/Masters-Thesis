@@ -1,7 +1,5 @@
 # MEng Industrial Engineering Thesis
 
-All model libraries are present in the rsc folder.
-
 ## A genetic algorithm based model tree forest 
 
 This thesis presents an ensemble approach that reduces the high variance error exhibited by
@@ -20,3 +18,7 @@ from the increased model complexity, compared to a previous implementation of GA
 within a tree structure which is shown to exhibit overfitting in specific cases. MTF produced
 similar performance to an artificial feed-forward neural network and outperformed the M5 model
 tree, an ensemble of M5 model trees and support vector regression.
+
+## This repo contains
+- All classes necessary to implement MTF, see [`rsc/PyGasope/PyForest.py`](https://github.com/WernerVdM97/Masters-Thesis/blob/main/rsc/PyGasope/PyForest.py) for the main class.
+- Results of comparing GASOPE, MT and MTF against other state of the art regression techniques.
