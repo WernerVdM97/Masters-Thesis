@@ -20,5 +20,11 @@ similar performance to an artificial feed-forward neural network and outperforme
 tree, an ensemble of M5 model trees and support vector regression.
 
 ## This repo contains
+- The [full project report](https://github.com/WernerVdM97/Masters-Thesis/blob/main/Thesis.pdf), containing:
+  - A study on relevant literature,
+  - A redesign of GASOPE,
+  - Conceptualisation of Model Tree Forest (MTF),
+  - Visualisation & evaluation of tuning MTF and
+  - Statistical tests to compare MTF against other state-of-the-art regression techniques.
 - All classes necessary to implement MTF, see [`rsc/PyGasope/PyForest.py`](https://github.com/WernerVdM97/Masters-Thesis/blob/main/rsc/PyGasope/PyForest.py) for the main class.
-- Results of comparing GASOPE, MT and MTF against other state of the art regression techniques.
+- Raw results of comparing GASOPE, MT and MTF against other state of the art regression techniques.
